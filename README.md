@@ -10,7 +10,7 @@ I am a passionate software engineer dedicated to building **scalable, high-perfo
 - 🧠 **Continuous Learning:** Actively solving complex algorithmic problems (DSA) and exploring the frontiers of **GenAI** and **Blockchain**.
 
 ### 🛠️ Technical Arsenal
-* **Languages:** Java 21, JavaScript/TypeScript, SQL
+* **Languages:** Java , JavaScript/TypeScript, SQL
 * **Backend:** Spring Boot, Spring Cloud, Hibernate, REST APIs
 * **Architecture:** Microservices, CQRS, Event-Driven, OAuth2
 * **DevOps & Cloud:** AWS (S3, CloudFront), Docker, CI/CD, Git
